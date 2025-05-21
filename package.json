@@ -1,13 +1,14 @@
 {
   "name": "showcaseplaywright",
   "version": "1.0.0",
+  
   "main": "index.js",
   "scripts": {  "test": "playwright test"
 },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Showcase of Playwright tests on the-internet.herokuapp.com and others",
   "devDependencies": {
     "@playwright/test": "^1.52.0",
     "@types/node": "^22.15.21"
