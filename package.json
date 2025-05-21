@@ -2,7 +2,8 @@
   "name": "showcaseplaywright",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {  "test": "playwright test"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -10,5 +11,7 @@
   "devDependencies": {
     "@playwright/test": "^1.52.0",
     "@types/node": "^22.15.21"
+    
   }
+  
 }
